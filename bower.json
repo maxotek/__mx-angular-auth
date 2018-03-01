@@ -6,6 +6,8 @@
     "license": "MIT",
     "private": false,
     "dependencies": {
-        "angular": "v1.6.9"
+        "angular": "v1.6.9",
+        "ngstorage": "0.3.11",
+        "jwt-decode": "v2.2.0"
     }
 }
